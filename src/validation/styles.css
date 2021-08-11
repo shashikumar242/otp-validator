@@ -1,0 +1,9 @@
+.generate-btn {
+  background-color: rgb(130, 32, 221);
+  font-weight: bold;
+  color: white;
+  padding: 10px;
+  margin: 50px;
+  border: none;
+  border-radius: 50px;
+}
